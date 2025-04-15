@@ -1,0 +1,14 @@
+.pinkbackground {
+    background-color: #ff69b4; font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#no2 {
+    color: #0011ff; font-size: 36px;
+}
+
+#no4 {
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
